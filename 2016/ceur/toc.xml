@@ -1,0 +1,135 @@
+<toc>
+   <session>
+      <title>Linked Data Publication and Consumption</title>
+      <paper>
+         <title>Requirements on Linked Data Consumption Platform</title>
+         <authors>
+            <author>Jakub Klímek</author>
+            <author>Petr Škoda</author>
+            <author>Martin Nečaský</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Structured Feedback: A Distributed Protocol for Feedback and Patches on the Web of Data</title>
+         <authors>
+            <author>Natanael Arndt</author>
+            <author>Kurt Junghanns</author>
+            <author>Roy Meissner</author>
+            <author>Philipp Frischmuth</author>
+            <author>Norman Radtke</author>
+            <author>Marvin Frommhold</author>
+            <author>Michael Martin</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Towards a Collaborative Process Platform: Publishing Processes according to the Linked Data Principles</title>
+         <authors>
+            <author>Tobias Weller</author>
+            <author>Maria Maleshkova</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Automated Metadata Generation for Linked Data Generation and Publishing Workflows</title>
+         <authors>
+            <author>Anastasia Dimou</author>
+            <author>Tom De Nies</author>
+            <author>Ruben Verborgh</author>
+            <author>Erik Mannens</author>
+            <author>Rik Van de Walle</author>
+         </authors>
+      </paper>
+   </session>
+   <session>
+      <title>Data Linking</title>
+      <paper>
+         <title>Complex Schema Mapping and Linking Data: Beyond Binary Predicates</title>
+         <authors>
+            <author>Jacobo Rouces</author>
+            <author>Gerard de Melo</author>
+            <author>Katja Hose</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Discovering Spatial and Temporal Links among RDF Data</title>
+         <authors>
+            <author>Panayiotis Smeros</author>
+            <author>Manolis Koubarakis</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Assessing Quantity and Quality of Links Between Link Data Datasets</title>
+         <authors>
+            <author>Ciro Baron Neto</author>
+            <author>Dimitris Kontokostas</author>
+            <author>Sebastian Hellmann</author>
+            <author>Martin Brümmer</author>
+            <author>Kay Mueller</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Improving Link Specifications using Context-Aware Information</title>
+         <authors>
+            <author>Andrea Cimmino</author>
+            <author>Carlos R. Rivero</author>
+            <author>David Ruiz</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Publish and Subscribe for RDF in Enterprise Value Networks</title>
+         <authors>
+            <author>Marvin Frommhold</author>
+            <author>Natanael Arndt</author>
+            <author>Sebastian Tramp</author>
+            <author>Niklas Petersen</author>
+         </authors>
+      </paper>
+   </session>
+   <session>
+      <title>Linked Data Processing and Curation</title>
+      <paper>
+         <title>Annalist: A practical tool for creating, managing and sharing evolving linked data</title>
+         <authors>
+            <author>Graham Klyne</author>
+            <author>Cerys Willoughby</author>
+            <author>Kevin Page</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>KnowledgeWiki: An OpenSource Tool for Creating Community-Curated Vocabulary, with a Use Case in Materials Science</title>
+         <authors>
+            <author>Nishita Jaykumar</author>
+            <author>Pavankalyan Yallamelli</author>
+            <author>Vinh Nguyen</author>
+            <author>Sarasi Lalithsena</author>
+            <author>Krishnaprasad Thirunarayan</author>
+            <author>Amit Sheth</author>
+            <author>Clare Paul</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Towards A Cache-Enabled, Order-Aware, Ontology-Based Stream Reasoning Framework</title>
+         <authors>
+            <author>Rui Yan</author>
+            <author>Brenda Praggastis</author>
+            <author>William P. Smith</author>
+            <author>Deborah L. McGuinness</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>R2RML-F: Towards Sharing and Executing Domain Logic in R2RML Mappings</title>
+         <authors>
+            <author>Christophe Debruyne</author>
+            <author>Declan O'Sullivan</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Semantic Hadith: Leveraging Linked Data Opportunities for Islamic Knowledge</title>
+         <authors>
+            <author>Amna Basharat</author>
+            <author>Bushra Abro</author>
+            <author>I. Budak Arpinar</author>
+            <author>Khaled Rasheed</author>
+         </authors>
+      </paper>
+   </session>
+</toc>
