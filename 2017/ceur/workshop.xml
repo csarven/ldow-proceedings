@@ -49,7 +49,7 @@
         <!-- please sort alphabetically; the XSLT does not yet do this automatically -->
         <editor>
             <name>Sören Auer</name>
-            <affiliation> University of Bonn and Fraunhofer IAIS</affiliation>
+            <affiliation>University of Bonn and Fraunhofer IAIS</affiliation>
             <country>Germany</country>
             <homepage>http://data.semanticweb.org/person/soeren-auer</homepage>
         </editor>
@@ -67,7 +67,7 @@
         </editor>
         <editor submitting="true">
             <name>Sarven Capadisli</name>
-            <affiliation> University of Bonn</affiliation>
+            <affiliation>University of Bonn</affiliation>
             <country>Germany</country>
             <homepage>http://csarven.ca/#i</homepage>
         </editor>
