@@ -1,0 +1,72 @@
+<toc>
+   <session>
+      <title>Linked Data Publication and Consumption</title>
+      <paper>
+         <title>Piecing the puzzle – Self-publishing queryable research data on the Web</title>
+         <authors>
+            <author>Ruben Verborgh</author>
+         </authors>
+         <url>https://ruben.verborgh.org/articles/queryable-research-data/</url>
+      </paper>
+      <paper>
+         <title>deepschema.org: an Ontology for Typing Entities in the Web of Data</title>
+         <authors>
+            <author>Panayiotis Smeros</author>
+            <author>Amit Gupta</author>
+            <author>Michele Catasta</author>
+            <author>Karl Aberer</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Lifting data portals to the Web of Data</title>
+         <authors>
+            <author>Sebastian Neumaier</author>
+            <author>Jürgen Umbrich</author>
+            <author>Axel Polleres</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Revisiting the Representation of and Need for Raw Geometries on the Linked Data Web</title>
+         <authors>
+            <author>Blake Regalia</author>
+            <author>Krzysztof Janowicz</author>
+            <author>Grant McKenzie</author>
+         </authors>
+      </paper>
+   </session>
+   <session>
+      <title>Linked Data Processing and Analysis</title>
+      <paper>
+         <title>High-Throughput and Language-Agnostic Entity Disambiguation and Linking on User Generated Data</title>
+         <authors>
+            <author>Preeti Bhargava</author>
+            <author>Nemanja Spasojevic</author>
+            <author>Guoning Hu</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Client-side Processing of GeoSPARQL Functions with Triple Pattern Fragments</title>
+         <authors>
+            <author>Christophe Debruyne</author>
+            <author>Éamonn Clinton</author>
+            <author>Declan O'Sullivan</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Learning to identify complementary products from DBpedia</title>
+         <authors>
+            <author>Victor Anthony Arrascue Ayala</author>
+            <author>Trong-Nghia Cheng</author>
+            <author>Anas Alzoghbi</author>
+            <author>Georg Lausen</author>
+         </authors>
+      </paper>
+      <paper>
+         <title>Towards a Personalized Query Answering Framework on the Web of Data</title>
+         <authors>
+            <author>Enayat Rajabi</author>
+            <author>Declan O’sullivan</author>
+         </authors>
+      </paper>
+   </session>
+</toc>
