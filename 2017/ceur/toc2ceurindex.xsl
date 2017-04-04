@@ -7,7 +7,7 @@
     Part of ceur-make (https://github.com/ceurws/ceur-make/)
 
     © Christoph Lange and contributors 2012–2015
-    Sarven Capadisli 2015-2016
+    Sarven Capadisli 2015-2017
 
     Licensed under GPLv3 or any later version
 -->
@@ -34,7 +34,7 @@
 
     <xsl:template match="/">
 <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html&gt;</xsl:text>
-<xsl:comment>CEURVERSION=2016-11-12</xsl:comment>
+<xsl:comment>CEURVERSION=2017-04-04</xsl:comment>
 <xsl:text>
 </xsl:text>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -134,7 +134,7 @@
                                 <xsl:text>#</xsl:text>
                                 <xsl:value-of select="replace(normalize-space(name), '\s+', '-')"/>
                             </xsl:variable>
-                            <dd id="author-{position()}" rel="bibo:editor" resource="{$editorIRI}"><span about="" rel="schema:contributor schema:author schema:editor{if (@submitting='true') then ' schema:creator' else ''}">
+                            <dd id="author-{position()}" rel="bibo:editor" resource="{$editorIRI}"><span about="" rel="schema:editor{if (@submitting='true') then ' schema:creator' else ''}">
                             <xsl:choose>
                                 <xsl:when test="homepage">
                                     <a about="{$editorIRI}" class="CEURVOLEDITOR" href="{homepage}" property="schema:name" rel="schema:url" typeof="schema:Person"><xsl:value-of select="name"/></a>
@@ -261,7 +261,7 @@
 
         <li about="#{$id}" id="{$id}" typeof="schema:ScholarlyArticle" value="{$position}">
             <a class="CEURTITLE" href="{$pdf}" property="schema:name" rel="schema:url"><xsl:value-of select="title"/></a>
-            <xsl:if test="url"><xsl:text> </xsl:text>[<a rel="bibo:uri" href="{url}">canonical URL</a>]</xsl:if>
+            <xsl:if test="url"><xsl:text> </xsl:text>[<a rel="owl:sameAs" href="{url}">canonical URL</a>]</xsl:if>
             <xsl:if test="pages">
             <dl class="pages">
                 <dt>Pages</dt>
