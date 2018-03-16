@@ -1,0 +1,68 @@
+<toc>
+  <paper>
+     <title>SPARQL Micro-Services: Lightweight Integration of Web APIs and Linked Data</title>
+     <authors>
+        <author>Franck Michel</author>
+        <author>Catherine Faron-Zucker</author>
+        <author>Fabien Gandon</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>A Knowledge Base for Personal Information Management</title>
+     <authors>
+        <author>David Montoya</author>
+        <author>Thomas Pellissier</author>
+        <author>Tanon Serge Abiteboul</author>
+        <author>Pierre Senellart</author>
+        <author>Fabian M. Suchanek</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>Practical Linked Data Access via SPARQL: The Case of Wikidata</title>
+     <authors>
+        <author>Adrian Bielefeldt</author>
+        <author>Julius Gonsior</author>
+        <author>Markus Krötzsch</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>Evaluating Approaches for Supervised Semantic Labeling</title>
+     <authors>
+        <author>Nataliia Rümmele</author>
+        <author>Yuriy Tyshetskiy</author>
+        <author>Alex Collins</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>Rule-based Programming of User Agents for Linked Data</title>
+     <authors>
+        <author>Tobias Käfer</author>
+        <author>Andreas Harth</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>GEEK: Incremental Graph-based Entity Disambiguation</title>
+     <authors>
+        <author>Alexios Mandalios</author>
+        <author>Konstantinos Tzamaloukas</author>
+        <author>Alexandros Chortaras</author>
+        <author>Giorgos Stamou</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>D2RML: Integrating Heterogeneous Data and Web Services into Custom RDF Graphs</title>
+     <authors>
+        <author>Alexandros Chortaras</author>
+        <author>Giorgos Stamou</author>
+     </authors>
+  </paper>
+  <paper>
+     <title>What Factors Influence the Design of a Linked Data Generation Algorithm?</title>
+     <authors>
+        <author>Anastasia Dimou</author>
+        <author>Pieter Heyvaert</author>
+        <author>Ben De Meester</author>
+        <author>Ruben Verborgh</author>
+     </authors>
+  </paper>
+</toc>
